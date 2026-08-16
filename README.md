@@ -17,6 +17,10 @@ I'm a **Systems Administrator** interested in **Cloud Infrastructure**.
 
 [Floci Terraform lab](https://github.com/juanfbgs/floci-terraform-lab)
 
+[Docker CI/CD Lab](https://github.com/juanfbgs/docker-cicd-lab)
+
+[Go - Minikube Lab](https://github.com/juanfbgs/go-k8s)
+
 ## Latest Posts
 
 ## Connect with Me
